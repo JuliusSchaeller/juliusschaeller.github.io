@@ -1,3 +1,10 @@
 html {
   color:red;
+  text-align:center;
+}
+div {
+  width: 400px;
+}
+ul {
+  text-align:left;
 }
