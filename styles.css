@@ -3,8 +3,13 @@ html {
   text-align:center;
 }
 div {
+  margin:auto;
   width: 400px;
 }
 ul {
   text-align:left;
+}
+footer {
+  position:absolute;
+  bottem: 0;
 }
